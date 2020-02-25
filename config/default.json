@@ -1,0 +1,4 @@
+{
+"mongoURI":"mongodb+srv://JodyAdmin:jodyadmin@merncluster-s6pcn.mongodb.net/test?retryWrites=true&w=majority"
+
+}
